@@ -1,0 +1,19 @@
+#loading-indicator{
+    background-color: black;
+    opacity: 0.25;
+    overflow-y: auto;
+    z-index: 99999999;
+    text-align: center;
+    padding-top: 20%;
+    color: #ffffff;
+}
+th .filter > .btn{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
